@@ -2,6 +2,10 @@
 
 This repository contains the source needed to display characters to a SSD1306 screen
 
+There are plenty of Arduino based solutions and other platforms that use the SSD1306, but the ATTiny did not as far as I could recall so I made this.  
+
+You are free to distribute or change this as per the GPL.  
+
 **Compatibility** 
 
 It has only been tested on 
